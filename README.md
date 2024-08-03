@@ -14,10 +14,10 @@
 </div>
 
 <div id="subheader" align="center">
-  👋 Hello!
+  👋 Welcome!
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools :
 
 <div id="tools" align="center" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" height="60">
