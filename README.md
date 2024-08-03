@@ -16,9 +16,12 @@
 <div id="subheader" align="center">
   👋 Welcome!
 </div>
+
 <br />
+
 <p>🧑‍💻 I'm Lucas, a highly motivated QA with a deep passion for automation testing, bug finding, and problem solving in the ever-evolving tech world.</p>
 
+<br />
 <p>:hammer_and_wrench: My expertise includes working with:</p>
 
 <div id="tools" align="center" width="40" height="40">
