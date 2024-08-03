@@ -17,3 +17,12 @@
   👋 Hello!
 </div>
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
