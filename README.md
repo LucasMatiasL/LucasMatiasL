@@ -17,7 +17,7 @@
   👋 Welcome!
 </div>
 
-<div></div>
+<div> </div>
 🧑‍💻 I'm Lucas, a highly motivated QA with a deep passion for automation testing, bug finding, and problem solving in the ever-evolving tech world.
 
 :hammer_and_wrench: My expertise includes working with:
