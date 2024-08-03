@@ -19,11 +19,6 @@
 
 <br />
 
-<p>🧑‍💻 I'm Lucas, a highly motivated QA with a deep passion for automation testing, bug finding, and problem solving in the ever-evolving tech world.</p>
-
-<br />
-<p>:hammer_and_wrench: My expertise includes working with:</p>
-
 <div id="tools" align="center" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="60" height="60">
@@ -31,3 +26,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="60" height="60">
 </div>
+
+<br />
+
+<p>🧑‍💻 I'm Lucas, a highly motivated QA with a deep passion for automation testing, bug finding, and problem solving in the ever-evolving tech world.</p>
+
+<br />
