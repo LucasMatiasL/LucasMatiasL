@@ -17,7 +17,9 @@
   👋 Welcome!
 </div>
 
-<div id="languages" align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</div>
+🧑‍💻 I'm Lucas, a highly motivated QA with a deep passion for automation testing, bug finding, and problem solving in the ever-evolving tech world.
+
+:hammer_and_wrench: My expertise includes working with:
 
 <div id="tools" align="center" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="60" height="60">
